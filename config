@@ -1,7 +1,0 @@
-Host 10.1.126.171
-  HostName 10.1.126.171
-  User timmo
-  Port 22
-
-Host 10.1.126.171:22
-  HostName 10.1.126.171:22
