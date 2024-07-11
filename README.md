@@ -13,7 +13,6 @@
 [![Scala Badge](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)]()
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
 [![Pytorch Badge](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)]()
-[![Colab Badge](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)]()
 [![ArchLinux Badge](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)]()
 [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)]()
 [![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)]()
