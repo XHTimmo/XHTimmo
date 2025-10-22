@@ -11,20 +11,6 @@
 
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🔭 I'm currently working on **RISC-V Chip Design & PCB Design**
-- 🌱 I'm currently learning **RISC-V & PCB**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤔 I'm looking for help with **Advanced Algorithm Optimization**
-- 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📫 How to reach me: **xhtimmo@outlook.com**
-- ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -76,36 +62,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```javascript
-const currentFocus = {
-    learning: ["Machine Learning", "Cloud Architecture", "Microservices"],
-    building: ["AI-powered SaaS Platform", "Open Source Tools"],
-    reading: ["Clean Architecture", "System Design Interview"],
-    goals: ["Contribute to major open source projects", "Build scalable applications"]
-};
-
-console.log("Always coding, always learning! 🚀");
-```
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XHTimmo&repo=awesome-project-1&theme=tokyonight)](https://github.com/XHTimmo/awesome-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XHTimmo&repo=awesome-project-2&theme=tokyonight)](https://github.com/XHTimmo/awesome-project-2)
-
-</div>
-
----
-
 ## 🎨 Contribution Snake
 
 <div align="center">
@@ -113,17 +69,6 @@ console.log("Always coding, always learning! 🚀");
   ![Snake animation](https://github.com/XHTimmo/XHTimmo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Web Applications with Microservices](https://yourblog.com/post1)
-- [Machine Learning in Production: Best Practices](https://yourblog.com/post2)
-- [The Future of Frontend Development](https://yourblog.com/post3)
-- [Optimizing Database Performance at Scale](https://yourblog.com/post4)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
